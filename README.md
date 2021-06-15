@@ -20,8 +20,8 @@ How you Can Use Python3 & a Python Library PyTube to Download YouTube Videos.ðŸ‘
  
 **Requirements**
     
-Just Install PyTube ðŸ˜ƒ
-    
+ 1.Python3 
+ 2.PyTube  
     pip install pytube
 ## The Code
 
